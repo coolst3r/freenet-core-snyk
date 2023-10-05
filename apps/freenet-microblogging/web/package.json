@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bootstrap": "5.3.1",
+    "bootstrap": "5.3.2",
     "freenet-stdlib": "file:../../../stdlib/typescript/dist/pack/freenet-stdlib.tgz",
     "module-alias": "^2.2.2"
   },
